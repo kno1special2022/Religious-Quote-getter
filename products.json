@@ -1,0 +1,43 @@
+{
+  "premium": {
+    "id": "premium_monthly",
+    "name": "Premium Subscription",
+    "price": 4.99,
+    "interval": "monthly",
+    "features": [
+      "All traditions (Bible, Qur\u2019an, Tanakh, LDS)",
+      "Unlimited searches",
+      "Choose translations",
+      "Premium shareable templates"
+    ]
+  },
+  "packs": [
+    {
+      "id": "pack_quran",
+      "name": "Qur\u2019an Pack",
+      "price": 2.99
+    },
+    {
+      "id": "pack_tanakh",
+      "name": "Tanakh Pack",
+      "price": 2.99
+    },
+    {
+      "id": "pack_lds",
+      "name": "LDS Scriptures Pack",
+      "price": 2.99
+    }
+  ],
+  "templates": [
+    {
+      "id": "tpl_wedding",
+      "name": "Wedding Template Pack",
+      "price": 1.99
+    },
+    {
+      "id": "tpl_grief",
+      "name": "Grief & Comfort Pack",
+      "price": 1.99
+    }
+  ]
+}

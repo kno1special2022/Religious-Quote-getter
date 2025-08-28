@@ -1,0 +1,266 @@
+[
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "KJV",
+    "reference": "Psalm 90:12",
+    "text": "So teach us to number our days, that we may apply our hearts unto wisdom.",
+    "topics": [
+      "Birthday",
+      "Wisdom",
+      "Time"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "KJV",
+    "reference": "Psalm 118:24",
+    "text": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+    "topics": [
+      "Birthday",
+      "Joy",
+      "Gratitude"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "ASV",
+    "reference": "Proverbs 9:11",
+    "text": "For by me thy days shall be multiplied, And the years of thy life shall be increased.",
+    "topics": [
+      "Birthday",
+      "Long life",
+      "Wisdom"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "WEB",
+    "reference": "Psalm 139:14",
+    "text": "I will give thanks to you, for I am fearfully and wonderfully made.",
+    "topics": [
+      "Birthday",
+      "Identity",
+      "Gratitude"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "NT",
+    "translation": "KJV",
+    "reference": "Mark 10:9",
+    "text": "What therefore God hath joined together, let not man put asunder.",
+    "topics": [
+      "Wedding",
+      "Marriage",
+      "Covenant"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "NT",
+    "translation": "ASV",
+    "reference": "1 Corinthians 13:4-7",
+    "text": "Love suffereth long, and is kind; love envieth not; love vaunteth not itself...",
+    "topics": [
+      "Wedding",
+      "Love",
+      "Patience"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "KJV",
+    "reference": "Psalm 23:4",
+    "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil.",
+    "topics": [
+      "Grief",
+      "Comfort",
+      "Funeral"
+    ]
+  },
+  {
+    "tradition": "Bible",
+    "scripture": "OT",
+    "translation": "KJV",
+    "reference": "Proverbs 17:22",
+    "text": "A merry heart doeth good like a medicine: but a broken spirit drieth the bones.",
+    "topics": [
+      "Healing",
+      "Encouragement",
+      "Health"
+    ]
+  },
+  {
+    "tradition": "Quran",
+    "scripture": "Qur'an",
+    "translation": "Pickthall",
+    "reference": "31:14",
+    "text": "And We have enjoined upon man concerning his parents—his mother beareth him in weakness upon weakness...",
+    "topics": [
+      "Birthday",
+      "Parents",
+      "Gratitude"
+    ]
+  },
+  {
+    "tradition": "Quran",
+    "scripture": "Qur'an",
+    "translation": "Yusuf Ali",
+    "reference": "16:78",
+    "text": "It is He Who brought you forth from the wombs of your mothers when ye knew nothing...",
+    "topics": [
+      "Birthday",
+      "Creation",
+      "Gratitude"
+    ]
+  },
+  {
+    "tradition": "Quran",
+    "scripture": "Qur'an",
+    "translation": "Pickthall",
+    "reference": "30:21",
+    "text": "And of His signs is this: He created for you helpmeets from yourselves... love and mercy.",
+    "topics": [
+      "Wedding",
+      "Marriage",
+      "Love"
+    ]
+  },
+  {
+    "tradition": "Quran",
+    "scripture": "Qur'an",
+    "translation": "Yusuf Ali",
+    "reference": "2:156",
+    "text": "To Allah we belong, and to Him is our return.",
+    "topics": [
+      "Grief",
+      "Patience",
+      "Funeral"
+    ]
+  },
+  {
+    "tradition": "Quran",
+    "scripture": "Qur'an",
+    "translation": "Pickthall",
+    "reference": "9:51",
+    "text": "Naught befalleth us save that which Allah hath decreed for us; He is our Protecting Friend.",
+    "topics": [
+      "Trust",
+      "Anxiety",
+      "Faith"
+    ]
+  },
+  {
+    "tradition": "Tanakh",
+    "scripture": "Ketuvim",
+    "translation": "JPS 1917",
+    "reference": "Psalm 90:12",
+    "text": "So teach us to number our days, that we may get us a heart of wisdom.",
+    "topics": [
+      "Birthday",
+      "Wisdom",
+      "Time"
+    ]
+  },
+  {
+    "tradition": "Tanakh",
+    "scripture": "Ketuvim",
+    "translation": "JPS 1917",
+    "reference": "Psalm 118:24",
+    "text": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+    "topics": [
+      "Birthday",
+      "Joy",
+      "Gratitude"
+    ]
+  },
+  {
+    "tradition": "Tanakh",
+    "scripture": "Ketuvim",
+    "translation": "JPS 1917",
+    "reference": "Proverbs 9:11",
+    "text": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
+    "topics": [
+      "Birthday",
+      "Long life",
+      "Wisdom"
+    ]
+  },
+  {
+    "tradition": "Tanakh",
+    "scripture": "Nevi'im",
+    "translation": "JPS 1917",
+    "reference": "Isaiah 66:13",
+    "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.",
+    "topics": [
+      "Mother’s Day",
+      "Comfort",
+      "Parents"
+    ]
+  },
+  {
+    "tradition": "Tanakh",
+    "scripture": "Ketuvim",
+    "translation": "JPS 1917",
+    "reference": "Psalm 23:4",
+    "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; for Thou art with me.",
+    "topics": [
+      "Grief",
+      "Comfort",
+      "Funeral"
+    ]
+  },
+  {
+    "tradition": "LDS",
+    "scripture": "Book of Mormon",
+    "translation": "1830",
+    "reference": "2 Nephi 2:25",
+    "text": "Adam fell that men might be; and men are, that they might have joy.",
+    "topics": [
+      "Birthday",
+      "Joy",
+      "Purpose"
+    ]
+  },
+  {
+    "tradition": "LDS",
+    "scripture": "Book of Mormon",
+    "translation": "1830",
+    "reference": "Alma 37:6",
+    "text": "By small and simple things are great things brought to pass.",
+    "topics": [
+      "Encouragement",
+      "Diligence",
+      "Work"
+    ]
+  },
+  {
+    "tradition": "LDS",
+    "scripture": "Book of Mormon",
+    "translation": "1830",
+    "reference": "Moroni 7:45",
+    "text": "Charity suffereth long, and is kind, and envieth not, and is not puffed up, seeketh not her own.",
+    "topics": [
+      "Wedding",
+      "Love",
+      "Charity"
+    ]
+  },
+  {
+    "tradition": "LDS",
+    "scripture": "Doctrine and Covenants",
+    "translation": "1835",
+    "reference": "D&C 121:7-8",
+    "text": "My son, peace be unto thy soul; thine adversity and thine afflictions shall be but a small moment.",
+    "topics": [
+      "Grief",
+      "Comfort",
+      "Hope"
+    ]
+  }
+]

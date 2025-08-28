@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#0f1015"/>
+  <text x="50%" y="40%" font-size="40" fill="#eaeffb" text-anchor="middle" font-family="Georgia">“Though I walk”</text>
+  <rect x="100" y="550" width="600" height="3" fill="#eaeffb" />
+  <text x="50%" y="600" font-size="24" fill="#eaeffb" text-anchor="middle" font-family="Georgia">Psalm 23:4</text>
+  <text x="50%" y="930" font-size="16" fill="#eaeffb" text-anchor="middle" font-family="Georgia">YourApp.io</text>
+</svg>

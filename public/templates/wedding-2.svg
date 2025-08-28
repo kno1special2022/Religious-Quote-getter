@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#1a0f14"/>
+  <text x="50%" y="40%" font-size="40" fill="#ffeff2" text-anchor="middle" font-family="Georgia">“Joined together”</text>
+  <rect x="100" y="550" width="600" height="3" fill="#ffeff2" />
+  <text x="50%" y="600" font-size="24" fill="#ffeff2" text-anchor="middle" font-family="Georgia">Mark 10:9</text>
+  <text x="50%" y="930" font-size="16" fill="#ffeff2" text-anchor="middle" font-family="Georgia">YourApp.io</text>
+</svg>
